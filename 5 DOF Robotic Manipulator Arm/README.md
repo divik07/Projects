@@ -11,6 +11,8 @@ The robotic manipulator was meticulously designed, programmed, and manufactured 
 
 Feel free to explore the repository for the design files, source code, and documentation detailing the development process.
 
+## Robot Design
+
 ![image](https://github.com/user-attachments/assets/0b3ab387-c733-467f-b235-112abd96ff98)
 ![image](https://github.com/user-attachments/assets/c6532d63-9dcb-46b7-a8f9-7fcd5370d399)
 
