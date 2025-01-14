@@ -2,7 +2,7 @@ This project as completed to fulfil the requirements of the course MAE263C - Con
 
 CHOPP (Culinary Helper of Produce Preparation) is a robotic manipulator designed for cutting produce in a home setting to aid personal food preparation. The project features a four-degree-of-freedom (DOF) robot equipped with a knife as its end effector, capable of executing a reciprocating motion to slice food. The manipulator’s performance was evaluated on its ability to cut a hard-boiled egg and a banana into multiple segments, then move the slices to the edge of the cutting surface. This simplified yet functional design showcases the capabilities of decentralized PID control and trajectory generation for robotic food preparation.
 
-**Robot Design**
+## Robot Design
 
 CHOPP consists of three links actuated by four motors:
 
@@ -15,7 +15,7 @@ CHOPP consists of three links actuated by four motors:
 ![image](https://github.com/user-attachments/assets/9b7ef452-76d0-4c9a-988a-b825c2bd5d39)
 
 
-**Trajectory and Motion Control**
+## Trajectory and Motion Control
 
 The manipulator’s movement was limited to the XY plane for positioning and Z3 rotation for slicing. A combination of position and velocity control was used to generate smooth trajectories, ensuring the end effector reached predefined waypoints and executed slicing motions effectively.
 
@@ -30,7 +30,7 @@ Key trajectory features:
 ![image](https://github.com/user-attachments/assets/8ba197fe-b978-4422-88fa-b95d642530cc)
 
 
-**Controllers**
+## Controllers
 
 Three controller architectures were implemented:
 
@@ -43,13 +43,13 @@ PID with feedforward acceleration: Briefly tested but excluded from the final de
 ![image](https://github.com/user-attachments/assets/d88fcb2a-afd3-46bc-a513-89cc7ad93ec8)
 
 
-**Forward Kinematics and Jacobian Analysis
-**
+## Forward Kinematics and Jacobian Analysis
+
 Operational space control required calculating forward kinematics to transform joint space outputs into global frame positions. An analytical Jacobian was derived to convert between joint and operational space, ensuring precise control of end effector movements.
 
 ![image](https://github.com/user-attachments/assets/a2506a4b-c546-4e32-8892-dfe8e1f208ff)
 
-**Final Result**
+## Final Result
 
 ![image](https://github.com/user-attachments/assets/8897d14e-834b-4804-9598-dddf9a9cd167)
 
