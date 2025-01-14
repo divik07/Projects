@@ -4,5 +4,7 @@ Using biomechanical modeling in OpenSim, the project defined the specifications 
 
 Subsequently, the motor and transmission system were optimized using MATLAB simulations to minimize energy lost as heat. The results of these simulations guided the selection of the motor, transmission design, and battery. Ultimately, these assessments informed the final concept design of the bionic system, ensuring both functional and energy-efficient performance.
 
+## Bionic System Design
+
 ![image](https://github.com/user-attachments/assets/185f53c4-7719-485e-8fa1-f4ef804e0c66)
 ![image](https://github.com/user-attachments/assets/b9503a05-4e2e-4e18-a6af-9ff4eb08b0c0)
