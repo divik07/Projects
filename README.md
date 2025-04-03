@@ -1,9 +1,11 @@
-# 🚀 [Your Name] - Mechanical Engineer Portfolio
+# Divik Bhargava - Mechanical Engineer Portfolio
 
-## 🔧 Skills
-- 🔹 CAD: SolidWorks, AutoCAD
-- 🔹 Simulation: ANSYS, MATLAB
-- 🔹 Programming: Python, C++
+## 🛠️ Technical Skills
+Mechanical Design, New Product Development, Design of Experiments (DOE), DFSS (Design for Six Sigma), CAD, CFD, FEA, Structural Analysis, 3D Printing, GD&T, Injection Molding, Die Casting, 21 CFR Part 820, ISO 13485, ISO 14971, FMEA, Design Control, Test Method Development, Design Verification, Statistical Analysis, Root Cause Analysis
+
+## 💻 Software Skills
+SolidWorks, CATIA, ANSYS, MATLAB, Minitab, Visual Studio, Java, Python, PowerBI
+  
 - # Project Portfolio Repository
 
 Welcome to my project portfolio! This repository showcases a diverse collection of engineering and robotics projects, highlighting my expertise in mechanical design, control systems, and dynamic simulations. Each project combines theoretical knowledge with practical implementation, offering innovative solutions to real-world challenges. Below is a brief overview of the projects included:
