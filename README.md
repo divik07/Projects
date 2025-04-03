@@ -1,4 +1,10 @@
-# Project Portfolio Repository
+# 🚀 [Your Name] - Mechanical Engineer Portfolio
+
+## 🔧 Skills
+- 🔹 CAD: SolidWorks, AutoCAD
+- 🔹 Simulation: ANSYS, MATLAB
+- 🔹 Programming: Python, C++
+- # Project Portfolio Repository
 
 Welcome to my project portfolio! This repository showcases a diverse collection of engineering and robotics projects, highlighting my expertise in mechanical design, control systems, and dynamic simulations. Each project combines theoretical knowledge with practical implementation, offering innovative solutions to real-world challenges. Below is a brief overview of the projects included:
 
